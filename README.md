@@ -1,4 +1,4 @@
-### <img src="https://blog.joypixels.com/content/images/2020/09/owl.gif" width="300px">
+### <img src="https://blog.joypixels.com/content/images/2020/09/owl.gif" width="100px">
 
 ## Interesting Material
 
