@@ -8,4 +8,4 @@
 
 
 ## Nice Tools
-- [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful (efficient) terminal and prompt on OSX in 7minutes.
+- [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful (efficient) terminal and prompt on OSX in 7 minutes.
