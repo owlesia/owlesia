@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi <img src="https://blog.joypixels.com/content/images/2020/09/owl.gif" width="30px">
 
 <!--
 **owlesia/owlesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
