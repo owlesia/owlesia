@@ -5,6 +5,7 @@
 - [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) - Free Operating Systems book from professors at UW Madison.
 - [Dropbox.Tech Blog](https://dropbox.tech/machine-learning/content-suggestions-machine-learning) - Using machine learning to predict what file you need next.
 - [Google Quantum AI](https://quantumai.google/education) - Tutorial about Cirq, Python library for quantum computers.
+- [Web 3.0](https://www.gemini.com/cryptopedia/web-3-0-definition-open-internet-decentralized) - Shift towards a decentralized, user-focused, and immersive online experience.
 
 
 ## Nice Tools
