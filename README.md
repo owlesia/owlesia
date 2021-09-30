@@ -13,3 +13,9 @@
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
 - [Notion](https://www.notion.so/) - Note-taking app with great UI/UX.
+
+## Fun Newsletters
+- [Strictly VC](https://www.strictlyvc.com/newsletter/)
+- [Gumroad](https://gumroad.gumroad.com/)
+- [ARK Invest](https://ark-invest.com/newsletters/)
+- [The Pomp Letter](https://pomp.substack.com/)
