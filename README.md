@@ -11,4 +11,5 @@
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
 
 ## Nice Tools
-- [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful (efficient) terminal and prompt on OSX in 7 minutes.
+- [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
+- [Notion](https://www.notion.so/) - Note-taking app with great UI/UX.
