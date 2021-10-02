@@ -19,3 +19,4 @@
 [![Strictly VC](https://img.shields.io/badge/Strictly_VC-orange?style=for-the-badge)](https://www.strictlyvc.com/newsletter/)
 [![Gumroad](https://img.shields.io/badge/Gumroad-orange?style=for-the-badge)](https://gumroad.gumroad.com/)
 [![ARK Invest](https://img.shields.io/badge/ARK_Invest-orange?style=for-the-badge)](https://ark-invest.com/newsletters/)
+[![The Pomp Letter](https://img.shields.io/badge/The_Pomp_Letter-orange?style=for-the-badge)](https://pomp.substack.com/)
