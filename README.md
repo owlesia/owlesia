@@ -9,13 +9,14 @@
 
 ## Favorite Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
+- [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/pdf/10.1145/2741948.2741964) - Borg is Google's internal cluster namager that is older than Kubernetes and not available in open source.
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
 - [Notion](https://www.notion.so/) - Note-taking app with great UI/UX.
 
 ## Fun Newsletters
-- [Strictly VC](https://www.strictlyvc.com/newsletter/)
+[![Strictly VC](https://img.shields.io/badge/Strictly_VC-orange?style=for-the-badge)](https://www.strictlyvc.com/newsletter/)
 - [Gumroad](https://gumroad.gumroad.com/)
 - [ARK Invest](https://ark-invest.com/newsletters/)
 - [The Pomp Letter](https://pomp.substack.com/)
