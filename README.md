@@ -17,6 +17,5 @@
 
 ## Fun Newsletters
 [![Strictly VC](https://img.shields.io/badge/Strictly_VC-orange?style=for-the-badge)](https://www.strictlyvc.com/newsletter/)
-- [Gumroad](https://gumroad.gumroad.com/)
-- [ARK Invest](https://ark-invest.com/newsletters/)
-- [The Pomp Letter](https://pomp.substack.com/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-orange?style=for-the-badge)](https://gumroad.gumroad.com/)
+[![ARK Invest](https://img.shields.io/badge/ARK_Invest-orange?style=for-the-badge)](https://ark-invest.com/newsletters/)
