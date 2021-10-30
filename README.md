@@ -16,6 +16,7 @@
 - [Notion](https://www.notion.so/) - Note-taking app with great UI/UX.
 
 ## Fun Newsletters
+[![Quastor Daily](https://www.quastor.org/)
 [![Strictly VC](https://img.shields.io/badge/Strictly_VC-orange?style=for-the-badge)](https://www.strictlyvc.com/newsletter/)
 [![Gumroad](https://img.shields.io/badge/Gumroad-orange?style=for-the-badge)](https://gumroad.gumroad.com/)
 [![ARK Invest](https://img.shields.io/badge/ARK_Invest-orange?style=for-the-badge)](https://ark-invest.com/newsletters/)
