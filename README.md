@@ -8,6 +8,7 @@
 - [Web 3.0](https://www.gemini.com/cryptopedia/web-3-0-definition-open-internet-decentralized) - Shift towards a decentralized, user-focused, and immersive online experience.
 - [Lil'Log](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html) - Flow-based Deep Generative Models and much more about ML.
 - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/) - NN visualization.
+- [Deep Learning Book](https://www.deeplearningbook.org/) - DL explained by the creator of GAN.
 
 ## Favorite Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
