@@ -6,6 +6,7 @@
 - [Dropbox.Tech Blog](https://dropbox.tech/machine-learning/content-suggestions-machine-learning) - Using machine learning to predict what file you need next.
 - [Google Quantum AI](https://quantumai.google/education) - Tutorial about Cirq, Python library for quantum computers.
 - [Web 3.0](https://www.gemini.com/cryptopedia/web-3-0-definition-open-internet-decentralized) - Shift towards a decentralized, user-focused, and immersive online experience.
+- [Lil'Log](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
 
 ## Favorite Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
