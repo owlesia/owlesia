@@ -9,6 +9,7 @@
 - [Lil'Log](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html) - Flow-based Deep Generative Models and much more about ML.
 - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/) - NN visualization.
 - [Deep Learning Book](https://www.deeplearningbook.org/) - DL explained by the creator of GAN.
+- [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 
 ## Favorite Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
