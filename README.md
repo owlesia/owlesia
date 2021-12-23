@@ -23,6 +23,4 @@
 [![The ReadME Project](https://img.shields.io/badge/The_ReadME_Project-orange?style=for-the-badge)](https://github.com/readme)
 [![Quastor Daily](https://img.shields.io/badge/Quastor_Daily-orange?style=for-the-badge)](https://www.quastor.org/)
 [![Strictly VC](https://img.shields.io/badge/Strictly_VC-orange?style=for-the-badge)](https://www.strictlyvc.com/newsletter/)
-[![Gumroad](https://img.shields.io/badge/Gumroad-orange?style=for-the-badge)](https://gumroad.gumroad.com/)
 [![ARK Invest](https://img.shields.io/badge/ARK_Invest-orange?style=for-the-badge)](https://ark-invest.com/newsletters/)
-[![The Pomp Letter](https://img.shields.io/badge/The_Pomp_Letter-orange?style=for-the-badge)](https://pomp.substack.com/)
