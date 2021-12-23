@@ -13,7 +13,7 @@
 
 ## Favorite Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
-- [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/pdf/10.1145/2741948.2741964) - Borg is Google's internal cluster manager that is older than Kubernetes and not available in open source.
+- [The Snowflake Elastic Data Warehouse](http://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) - Database-as-a-Service approach.
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
