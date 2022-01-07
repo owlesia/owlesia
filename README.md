@@ -10,7 +10,7 @@
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 - [Things that everyone needs to know](https://cs217.stanford.edu/cheat_sheet) - Cheat sheet for class "Hardware Accelerators for Machine Learning".
 
-## Favorite Papers
+## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
 - [The Snowflake Elastic Data Warehouse](http://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) - Database-as-a-Service approach.
 - [Decentralized & Collaborative AI on Blockchain](https://arxiv.org/abs/1907.07247) - Running ML on blockchain.
