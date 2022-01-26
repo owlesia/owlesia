@@ -10,6 +10,7 @@
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 - [Things that everyone needs to know](https://cs217.stanford.edu/cheat_sheet) - Cheat sheet for class "Hardware Accelerators for Machine Learning".
 - [KubeFlow](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/ch01.html) - ML platform supporting all steps of model development life cycle; the end of chapter contains material about alternative platforms and great references.
+- [NVIDIA CUDA Guide](https://www.nvidia.com/content/cudazone/download/opencl/nvidia_opencl_programmingguide.pdf) - OpenCL Programming Guide for the CUDA Architecture.
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
