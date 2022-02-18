@@ -20,6 +20,7 @@
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
+- [WandB Sweeps](https://wandb.ai/site/sweeps) - Hyperparameter search with excellent logs.
 
 ## Fun Newsletters
 [![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
