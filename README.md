@@ -16,6 +16,7 @@
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
 - [The Snowflake Elastic Data Warehouse](http://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) - Database-as-a-Service approach.
 - [Decentralized & Collaborative AI on Blockchain](https://arxiv.org/abs/1907.07247) - Running ML on blockchain.
+- [BytePS](https://www.usenix.org/conference/osdi20/presentation/jiang) - Effective utilization of both CPU and GPU resources during DL training.
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
