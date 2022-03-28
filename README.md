@@ -1,7 +1,6 @@
 ### <img src="https://blog.joypixels.com/content/images/2020/09/owl.gif" width="100px">
 
 ## Interesting Articles
-- [Google Quantum AI](https://quantumai.google/education) - Tutorial about Cirq, Python library for quantum computers.
 - [Lil'Log](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html) - Flow-based Deep Generative Models and much more about ML.
 - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/) - NN visualization.
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
