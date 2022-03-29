@@ -13,6 +13,7 @@
 - [The Snowflake Elastic Data Warehouse](http://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) - Database-as-a-Service approach.
 - [Decentralized & Collaborative AI on Blockchain](https://arxiv.org/abs/1907.07247) - Running ML on blockchain.
 - [BytePS](https://www.usenix.org/conference/osdi20/presentation/jiang) - Effective utilization of both CPU and GPU resources during DL training.
+- [Omega](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf) - Flexible, scalable shared-state schedulers for large compute clusters.
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
