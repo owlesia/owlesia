@@ -10,6 +10,7 @@
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
+- [KMN](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/venkataraman) - The power of choice in data-aware cluster scheduling.
 - [The Snowflake Elastic Data Warehouse](http://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) - Database-as-a-Service approach.
 - [Decentralized & Collaborative AI on Blockchain](https://arxiv.org/abs/1907.07247) - Running ML on blockchain.
 - [BytePS](https://www.usenix.org/conference/osdi20/presentation/jiang) - Effective utilization of both CPU and GPU resources during DL training.
