@@ -25,7 +25,7 @@
 ## Great Books
 - [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) - Free Operating Systems book from professors at UW Madison.
 - [Deep Learning Book](https://www.deeplearningbook.org/) - DL explained by the creator of GAN.
-- [System Design Interview](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_1?qid=1647727224&refinements=p_27%3AAlex+Xu&s=books&sr=1-1&text=Alex+Xu) - Alex Xu also regularly makes posts in LinkedIn.
+- [System Design Interview](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_1?qid=1647727224&refinements=p_27%3AAlex+Xu&s=books&sr=1-1&text=Alex+Xu) - Alex Xu also regularly makes posts in LinkedIn as well.
 
 ## Fun Newsletters
 [![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
