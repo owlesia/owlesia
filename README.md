@@ -8,6 +8,7 @@
 - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/) - NN visualization.
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 - [In-memory Computing Hardware](https://analog-ai-demo.mybluemix.net/?utm_medium=OSocial&utm_source=Youtube&utm_content=LHCWW&utm_id=YTDescription-101-what-is-in-memory-computing-mybluemix-analog-ai-demo#results) - IBM Research has developed a chip using phase-change memory (PCM) encoding the weights of a neural net on the chip itself.
+- [AI Accelerators](https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917) - Series of posts about the trends in AI accelerators, does not require an in-depth background in computer architecture but nevertheless has great details clear for people with software ML background.
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
