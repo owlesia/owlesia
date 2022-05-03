@@ -18,6 +18,8 @@
 - [BytePS](https://www.usenix.org/conference/osdi20/presentation/jiang) - Effective utilization of both CPU and GPU resources during DL training.
 - [Omega](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf) - Flexible, scalable shared-state schedulers for large compute clusters.
 - [Petuum](https://ieeexplore.ieee.org/abstract/document/7239545) - A platform for distributed Machine Learning on Big Data.
+- [ML Energy Usage](https://arxiv.org/pdf/2104.10350.pdf) - Carbon emissions and large neural network training.
+- [Google AI's CO2 Footprint](https://blog.google/technology/ai/minimizing-carbon-footprint/) - Article by David Patterson, 2017 ACM A.M Turing Award winner.
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
