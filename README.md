@@ -9,6 +9,7 @@
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 - [In-memory Computing Hardware](https://analog-ai-demo.mybluemix.net/?utm_medium=OSocial&utm_source=Youtube&utm_content=LHCWW&utm_id=YTDescription-101-what-is-in-memory-computing-mybluemix-analog-ai-demo#results) - IBM Research has developed a chip using phase-change memory (PCM) encoding the weights of a neural net on the chip itself.
 - [AI Accelerators](https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917) - Series of posts about the trends in AI accelerators, does not require an in-depth background in computer architecture and has great details clear for people with software ML background.
+- [Google AI's CO2 Footprint](https://blog.google/technology/ai/minimizing-carbon-footprint/) - Article by David Patterson, 2017 ACM A.M Turing Award winner.
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
@@ -19,7 +20,6 @@
 - [Omega](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf) - Flexible, scalable shared-state schedulers for large compute clusters.
 - [Petuum](https://ieeexplore.ieee.org/abstract/document/7239545) - A platform for distributed Machine Learning on Big Data.
 - [ML Energy Usage](https://arxiv.org/pdf/2104.10350.pdf) - Carbon emissions and large neural network training.
-- [Google AI's CO2 Footprint](https://blog.google/technology/ai/minimizing-carbon-footprint/) - Article by David Patterson, 2017 ACM A.M Turing Award winner.
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
