@@ -9,7 +9,7 @@
 - [Autoscaling Based on Request Queueing](https://developer.squareup.com/blog/autoscaling-based-on-request-queuing/) - Square Engineering Blog.
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 - [In-memory Computing Hardware](https://analog-ai-demo.mybluemix.net/?utm_medium=OSocial&utm_source=Youtube&utm_content=LHCWW&utm_id=YTDescription-101-what-is-in-memory-computing-mybluemix-analog-ai-demo#results) - IBM Research has developed a chip using phase-change memory (PCM) encoding the weights of a neural net on the chip itself.
-- [Scaling Shopify's BFCM Live Map: An Apache Flink Redesign](https://shopify.engineering/bfcm-live-map-2021-apache-flink-redesign) - Shopify Engineering Blog
+- [Scaling Shopify's BFCM Live Map: An Apache Flink Redesign](https://shopify.engineering/bfcm-live-map-2021-apache-flink-redesign) - Shopify Engineering Blog.
 - [AI Accelerators](https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917) - Series of posts about the trends in AI accelerators, does not require an in-depth background in computer architecture and has great details clear for people with software ML background.
 - [Google AI's CO2 Footprint](https://blog.google/technology/ai/minimizing-carbon-footprint/) - Article by David Patterson, 2017 ACM A.M Turing Award winner.
 - [Evolution of ML Fact Store](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762) - Netflix Tech Blog.
