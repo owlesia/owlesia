@@ -6,6 +6,7 @@
 - [Cannes](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews) - How ML saves Dropbox $1.7M a year on document previews - Dropbox Tech Blog.
 - [Lil'Log](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html) - Flow-based Deep Generative Models and much more about ML.
 - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/) - NN visualization.
+- [Autoscaling Based on Request Queueing](https://developer.squareup.com/blog/autoscaling-based-on-request-queuing/) - Square Engineering Blog.
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
 - [In-memory Computing Hardware](https://analog-ai-demo.mybluemix.net/?utm_medium=OSocial&utm_source=Youtube&utm_content=LHCWW&utm_id=YTDescription-101-what-is-in-memory-computing-mybluemix-analog-ai-demo#results) - IBM Research has developed a chip using phase-change memory (PCM) encoding the weights of a neural net on the chip itself.
 - [AI Accelerators](https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917) - Series of posts about the trends in AI accelerators, does not require an in-depth background in computer architecture and has great details clear for people with software ML background.
