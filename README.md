@@ -3,7 +3,7 @@
 ## Interesting Articles
 - [Things that everyone needs to know](https://cs217.stanford.edu/cheat_sheet) - Cheat sheet for class "Hardware Accelerators for Machine Learning".
 - [KubeFlow](https://www.oreilly.com/library/view/kubeflow-for-machine/9781492050117/ch01.html) - ML platform supporting all steps of model development life cycle; the end of chapter contains material about alternative platforms and great references.
-- [Cannes](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews) - How ML saves Dropbox $1.7M a year on document previews.
+- [Cannes](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews) - How ML saves Dropbox $1.7M a year on document previews - Dropbox Tech Blog.
 - [Lil'Log](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html) - Flow-based Deep Generative Models and much more about ML.
 - [Marching Neural Network](https://arogozhnikov.github.io/3d_nn/) - NN visualization.
 - [Awesome Vehicle Security](https://project-awesome.org/jaredthecoder/awesome-vehicle-security) - Various material about car hacking, including stories of a car being stopped remotely while traveling on a highway.
