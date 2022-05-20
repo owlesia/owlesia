@@ -13,6 +13,7 @@
 - [AI Accelerators](https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917) - Series of posts about the trends in AI accelerators, does not require an in-depth background in computer architecture and has great details clear for people with software ML background.
 - [Google AI's CO2 Footprint](https://blog.google/technology/ai/minimizing-carbon-footprint/) - Article by David Patterson, 2017 ACM A.M Turing Award winner.
 - [Evolution of ML Fact Store](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762) - Netflix Tech Blog.
+- [Go, Threads, and Raft](https://www.youtube.com/watch?v=UzzcUS2OHqo&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=5) - MIT Distributed Systems course.
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
