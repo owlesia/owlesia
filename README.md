@@ -33,7 +33,7 @@
 - [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) - Free Operating Systems book from professors at UW Madison.
 - [Deep Learning Book](https://www.deeplearningbook.org/) - DL explained by the creator of GAN.
 - [System Design Interview](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_1?qid=1647727224&refinements=p_27%3AAlex+Xu&s=books&sr=1-1&text=Alex+Xu) - Alex Xu also regularly makes posts in LinkedIn as well.
-- [How to Avoid a Climate Disaster](https://www.gatesnotes.com/Energy/My-new-climate-book-is-finally-here) - Fantastic book from Bill Gates, also check out the website of his organization - Breakthrough Energy - funding technologies contributing to zero-carbon future.
+- [How to Avoid a Climate Disaster](https://www.gatesnotes.com/Energy/My-new-climate-book-is-finally-here) - Fantastic book from Bill Gates, also check out the website of his organization - Breakthrough Energy, funding technologies contributing to zero-carbon future.
 
 ## Fun Newsletters
 [![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
