@@ -38,5 +38,5 @@
 ## Fun Newsletters
 [![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
 [![Quastor Daily](https://img.shields.io/badge/Quastor_Daily-orange?style=for-the-badge)](https://www.quastor.org/)
-[![Strictly VC](https://img.shields.io/badge/Strictly_VC-orange?style=for-the-badge)](https://www.strictlyvc.com/newsletter/)
+[![STRICTLY VC](https://img.shields.io/badge/STRICTLY_VC-red?style=for-the-badge&logo=STRICTLY+VC&logoColor=red)](https://www.strictlyvc.com/newsletter/)
 [![BLOOMBERG GREEN](https://img.shields.io/badge/BLOOMBERG_GREEN-2ea44f?style=for-the-badge&logo=Bloomberg+Green&logoColor=GREEN)](https://www.bloomberg.com/account/newsletters)
