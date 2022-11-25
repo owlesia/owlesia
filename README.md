@@ -38,6 +38,7 @@
 - [Dive into DL](https://d2l.ai/index.html) - Very clear explanation of fundamental DL concepts along with code.
 
 ## Useful Newsletters
+[![DOE EERE](https://img.shields.io/badge/DOE_EERE-lightyellow?style=for-the-badge)](https://www.energy.gov/eere/office-energy-efficiency-renewable-energy)
 [![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-purple?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
 [![STRICTLY VC](https://img.shields.io/badge/STRICTLY_VC-red?style=for-the-badge&logo=STRICTLY+VC&logoColor=red)](https://www.strictlyvc.com/newsletter/)
