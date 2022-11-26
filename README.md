@@ -15,7 +15,6 @@
 - [Evolution of ML Fact Store](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762) - Netflix Tech Blog.
 - [Go, Threads, and Raft](https://www.youtube.com/watch?v=UzzcUS2OHqo&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=5) - MIT Distributed Systems course.
 - [Website Energy Use](https://www.devsustainability.com/p/approaches-to-calculating-network-website-energy-and-carbon) - Limitations of website carbon calculators.
-- [Website Energy Measurements](https://www.green-coding.org/blog/firefox-104-energy-measurements/) - Trying out Firefox's power measurement feature.
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
