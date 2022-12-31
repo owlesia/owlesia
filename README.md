@@ -15,6 +15,7 @@
 - [Evolution of ML Fact Store](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762) - Netflix Tech Blog.
 - [Go, Threads, and Raft](https://www.youtube.com/watch?v=UzzcUS2OHqo&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=5) - MIT Distributed Systems course.
 - [Website Energy Use](https://www.devsustainability.com/p/approaches-to-calculating-network-website-energy-and-carbon) - Limitations of website carbon calculators.
+- [Trello and Google Dorking](https://medium.com/@darkrain2009/mine-passwords-and-sensitive-information-with-trello-and-google-dorking-6fcfab6e061f) - leveragin Google search to find information that is not supposed to be public. 
 
 ## Cool Papers
 - [Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf) - Modin is a very easy to use library that addresses Pandas' scalability issues.
@@ -26,7 +27,6 @@
 - [Petuum](https://ieeexplore.ieee.org/abstract/document/7239545) - A platform for distributed Machine Learning on Big Data.
 - [ML Energy Usage](https://arxiv.org/pdf/2104.10350.pdf) - Carbon emissions and large neural network training.
 - [Ghostor](https://www.usenix.org/conference/nsdi20/presentation/hu-yuncong) - Secure data-sharing system from decentralized trust.
-- [Trello and Google Dorking](https://medium.com/@darkrain2009/mine-passwords-and-sensitive-information-with-trello-and-google-dorking-6fcfab6e061f) - leveragin Google search to find information that is not supposed to be public. 
 
 ## Nice Tools
 - [iTerm2 Customization](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) - Configuration of a beautiful and efficient terminal and prompt on OSX in 7 minutes.
