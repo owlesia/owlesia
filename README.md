@@ -13,7 +13,7 @@
 - [How to Avoid a Climate Disaster](https://www.gatesnotes.com/Energy/My-new-climate-book-is-finally-here) - Great book from Bill Gates, also check out the website of his organization - Breakthrough Energy, funding technologies contributing to zero-carbon future.
 
 ## Newsletters I don't always skip
-[![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
-[![QUASTOR](https://img.shields.io/badge/QUASTOR-blue?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
-[![STRICTLY VC](https://img.shields.io/badge/STRICTLY_VC-green?style=for-the-badge&logo=STRICTLY+VC&logoColor=red)](https://www.strictlyvc.com/newsletter/)
+[![GSR](https://img.shields.io/badge/GSR-blue?style=for-the-badge)](https://www.gsr.io/)
+[![QUASTOR](https://img.shields.io/badge/QUASTOR-green?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
+[![STRICTLY VC](https://img.shields.io/badge/STRICTLY_VC-orange?style=for-the-badge&logo=STRICTLY+VC&logoColor=red)](https://www.strictlyvc.com/newsletter/)
 [![NEXTNYC](https://img.shields.io/badge/NEXTNYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
