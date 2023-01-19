@@ -14,6 +14,6 @@
 
 ## Newsletters I don't always skip
 [![GSR](https://img.shields.io/badge/GSR-orange?style=for-the-badge)](https://www.gsr.io/)
-[![QUASTOR](https://img.shields.io/badge/QUASTOR-purple?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
+[![QUASTOR](https://img.shields.io/badge/QUASTOR-blue?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
 [![STRICTLY VC](https://img.shields.io/badge/STRICTLY_VC-red?style=for-the-badge&logo=STRICTLY+VC&logoColor=red)](https://www.strictlyvc.com/newsletter/)
-[![NEXTNYC](https://img.shields.io/badge/NEXTNYC-orange?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
+[![NEXTNYC](https://img.shields.io/badge/NEXTNYC-green?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
