@@ -16,4 +16,4 @@
 [![GSR](https://img.shields.io/badge/GSR-blue?style=for-the-badge)](https://www.gsr.io/)
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-green?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
 [![STRICTLY VC](https://img.shields.io/badge/STRICTLY_VC-orange?style=for-the-badge&logo=STRICTLY+VC&logoColor=red)](https://www.strictlyvc.com/newsletter/)
-[![NEXT NYC](https://img.shields.io/badge/NEXTNYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
+[![NEXT NYC](https://img.shields.io/badge/NEXT_NYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
