@@ -11,6 +11,7 @@
 - [Ghostor](https://www.usenix.org/conference/nsdi20/presentation/hu-yuncong) - Secure data-sharing system from decentralized trust.
 - [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) - Free Operating Systems book from professors at UW Madison.
 - [How to Avoid a Climate Disaster](https://www.gatesnotes.com/Energy/My-new-climate-book-is-finally-here) - Great book from Bill Gates, also check out the website of his organization - Breakthrough Energy, funding technologies contributing to zero-carbon future.
+- [Light Node](https://www.alchemy.com/overviews/light-node) - How to interact with Ethereum network using just 400MB of storage.
 
 ## Newsletters I don't always skip
 [![GSR](https://img.shields.io/badge/GSR-blue?style=for-the-badge)](https://www.gsr.io/)
