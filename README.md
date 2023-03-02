@@ -14,6 +14,7 @@
 - [Light Node](https://www.alchemy.com/overviews/light-node) - How to interact with Ethereum network using just 400MB of storage.
 
 ## Newsletters I don't always skip
+[![AI SNAKE OIL](https://img.shields.io/badge/AI_SNAKE_OIL-orange?style=for-the-badge)](https://aisnakeoil.substack.com/about)
 [![GSR](https://img.shields.io/badge/GSR-blue?style=for-the-badge)](https://www.gsr.io/)
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-green?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://www.quastor.org/)
 [![NEXT NYC](https://img.shields.io/badge/NEXT_NYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
