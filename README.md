@@ -20,5 +20,4 @@
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
 [![AF](https://img.shields.io/badge/AF-gray?style=for-the-badge)](https://finbarrtimbers.substack.com/)
 [![GSR](https://img.shields.io/badge/GSR-purple?style=for-the-badge)](https://www.gsr.io/)
-[![AI EDGE](https://img.shields.io/badge/AI_EDGE-olive?style=for-the-badge)](https://newsletter.theaiedge.io/)
 [![NEXT NYC](https://img.shields.io/badge/NEXT_NYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
