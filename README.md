@@ -15,9 +15,7 @@
 
 ## Newsletters I don't always skip
 [![SIMONW](https://img.shields.io/badge/SIMONW-orange?style=for-the-badge)](https://simonw.substack.com/)
-[![STACEY ON IOT](https://img.shields.io/badge/STACEY_ON_IOT-green?style=for-the-badge&logo=QUASTOR&logoColor=red)](https://staceyoniot.com/newsletter/)
 [![IMPORT AI](https://img.shields.io/badge/IMPORT_AI-blue?style=for-the-badge)](https://importai.substack.com/)
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
 [![AF](https://img.shields.io/badge/AF-gray?style=for-the-badge)](https://finbarrtimbers.substack.com/)
-[![SEMIANALYSIS](https://img.shields.io/badge/SEMIANALYSIS-purple?style=for-the-badge)](https://www.semianalysis.com/)
 [![NEXT NYC](https://img.shields.io/badge/NEXT_NYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
