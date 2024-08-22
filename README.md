@@ -15,6 +15,7 @@
 
 ## Fascinating maps
 - [Who owns what](https://whoownswhat.justfix.org/en/) - Find other buildings your landlord might own in NYC
+- [Hoodmaps](https://levels.io/hoodmaps/) - Pieter Levels fascinating project (if you don't know who he is check out his interview with Lex)
 
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
