@@ -12,7 +12,7 @@
 - [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters) - Free Operating Systems book from professors at UW Madison.
 - [How to Avoid a Climate Disaster](https://www.gatesnotes.com/Energy/My-new-climate-book-is-finally-here) - Great book from Bill Gates, also check out the website of his organization - Breakthrough Energy, funding technologies contributing to zero-carbon future.
 - [Light Node](https://www.alchemy.com/overviews/light-node) - How to interact with Ethereum network using just 400MB of storage.
-- [Non-Blocking Concurrent Queue Algorithms](https://dl.acm.org/doi/pdf/10.1145/248052.248106) - How can multiple threads write to the same queue without lock.
+- [Non-Blocking Concurrent Queue Algorithms](https://dl.acm.org/doi/pdf/10.1145/248052.248106) - Implementation of concurrent queues without lock.
 
 ## Fascinating maps
 - [Who owns what](https://whoownswhat.justfix.org/en/) - Find other buildings your landlord might own in NYC
