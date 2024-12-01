@@ -12,6 +12,7 @@
 - [Light Node](https://www.alchemy.com/overviews/light-node) - How to interact with Ethereum network using just 400MB of storage.
 - [Non-Blocking Concurrent Queue Algorithms](https://dl.acm.org/doi/pdf/10.1145/248052.248106) - Implementation of concurrent queues without lock.
 - [Sorting a million 32-bit integers in 2MB of RAM using Python](https://neopythonic.blogspot.com/2008/10/sorting-million-32-bit-integers-in-2mb.html) - Efficient implementation of external sorting in Python.
+- [Visualizing the load balancing problem](https://samwho.dev/load-balancing/) - Excellent load balancing playground at the end of the post.
 
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
