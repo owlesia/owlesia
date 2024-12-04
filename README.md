@@ -15,6 +15,7 @@
 - [Visualizing the load balancing problem](https://samwho.dev/load-balancing/) - Excellent load balancing playground at the end of the post.
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) - An interesting take on async functions.
 - [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) - A talk by David Beazley.
+- [Python Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk) - When to use threads, when to use processes, and when to use async.
 
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
