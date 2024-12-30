@@ -16,6 +16,7 @@
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) - An interesting take on async functions.
 - [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) - A talk by David Beazley.
 - [Python Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk) - When to use threads, when to use processes, and when to use async.
+- [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide#:~:text=Go's%20GC%20uses%20the%20mark,This%20process%20is%20called%20sweeping.) - Visualization of trade-off between GC CPU and memory.
 
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
