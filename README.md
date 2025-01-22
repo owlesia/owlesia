@@ -18,6 +18,8 @@
 - [Python Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk) - When to use threads, when to use processes, and when to use async.
 - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide#:~:text=Go's%20GC%20uses%20the%20mark,This%20process%20is%20called%20sweeping.) - Visualization of trade-off between GC CPU and memory.
 - [Gappy's Page](https://linktr.ee/paleologo) - Rare case of a quant researcher sharing so much cool material, including all his bookmarks.
+- [Go: 90% Perfect, 100% of the time](https://go.dev/talks/2014/gocon-tokyo.slide#1) - Go is a language which is fast for both humans and computers.
+  
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
 [![NEXT NYC](https://img.shields.io/badge/NEXT_NYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
