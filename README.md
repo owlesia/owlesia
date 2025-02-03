@@ -19,6 +19,7 @@
 - [A Guide to the Go Garbage Collector](https://tip.golang.org/doc/gc-guide#:~:text=Go's%20GC%20uses%20the%20mark,This%20process%20is%20called%20sweeping.) - Visualization of trade-off between GC CPU and memory.
 - [Gappy's Page](https://linktr.ee/paleologo) - Rare case of a quant researcher sharing so much cool material, including all his bookmarks.
 - [Go: 90% Perfect, 100% of the time](https://go.dev/talks/2014/gocon-tokyo.slide#1) - Go is a language which is fast for both humans and computers.
+- [Build Systems](https://abseil.io/resources/swe-book/html/ch18.html) - An explanation of not just how Bazel works, but also why it was designed this way.
   
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
