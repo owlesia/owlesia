@@ -20,6 +20,7 @@
 - [Gappy's Page](https://linktr.ee/paleologo) - Rare case of a quant researcher sharing so much cool material, including all his bookmarks.
 - [Go: 90% Perfect, 100% of the time](https://go.dev/talks/2014/gocon-tokyo.slide#1) - Go is a language which is fast for both humans and computers.
 - [Build Systems](https://abseil.io/resources/swe-book/html/ch18.html) - An explanation of not just how Bazel works, but also why it was designed this way.
+- [A Git Origin Story](https://www.linuxjournal.com/content/git-origin-story) - A look at Linux kernel developers' various revision control solutions through the years.
   
 ## Newsletters I don't always skip
 [![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
