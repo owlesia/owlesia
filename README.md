@@ -25,3 +25,6 @@
   
 ## Newsletters I don't always skip
 [![GARYSGUIDE](https://img.shields.io/badge/GARYSGUIDE-red?style=for-the-badge)](https://www.garysguide.com/events)
+
+## My side projects
+- [Area Reveal](https://areareveal.com/) - Compilation of various resources to help understand the area, including noise pollution, the ratio of owners to renters, residents' occupations, the percentage of electricity coming from renewable sources, ratings of nearby hospitals, maps of bike paths, and more.
