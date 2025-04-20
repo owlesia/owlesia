@@ -24,5 +24,4 @@
 - [LDOS](https://ldos.utexas.edu/talks/introducing-learning-directed-operating-system-expeditions-project) - Developing next generation OS with ML-based policies.
   
 ## Newsletters I don't always skip
-[![QUASTOR](https://img.shields.io/badge/QUASTOR-yellow?style=for-the-badge)](https://blog.quastor.org/)
-[![NEXT NYC](https://img.shields.io/badge/NEXT_NYC-red?style=for-the-badge)](https://www.nycweeklynewsletter.com/)
+[![GARYSGUIDE](https://img.shields.io/badge/GARYSGUIDE-red?style=for-the-badge)](https://www.garysguide.com/events)
